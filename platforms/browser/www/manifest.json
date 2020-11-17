@@ -1,0 +1,17 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "GarçonApp",
+  "short_name": "GarçonApp",
+  "version": "br.com.mundopilbo.garconapp",
+  "description": "Um aplicativo para facilitar e organizar a realização de pedidos feitos em restaurantes.",
+  "author": "Thiago Nunes",
+  "icons": [
+    {
+      "src": "resources/android/icon/drawable-xhdpi-icon.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    }
+  ],
+  "start_url": "index.html"
+}

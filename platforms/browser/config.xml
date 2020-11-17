@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="br.com.mundopilbo.garconapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>GarçonApp</name>
+    <description>
+        Um aplicativo para facilitar e organizar a realização de pedidos feitos em restaurantes.
+    </description>
+    <author email="contato@mundopilbo.com.br" href="http://www.mundopilbo.com.br">
+        Thiago Nunes
+    </author>
+    <icon src="resources/android/icon/drawable-xhdpi-icon.png" />
+    <preferences name="Orientation" value="portrait" />
+    <preferences name="Fullscreen" value="true" />
+    <preferences name="BackgroundColor" value="0xF2F2F2FF" />
+</widget>
